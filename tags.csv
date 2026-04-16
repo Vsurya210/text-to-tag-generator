@@ -1,0 +1,11 @@
+tag,description
+machine learning,supervised and unsupervised learning classification regression model feature selection
+data science,data cleaning exploratory data analysis visualization pandas numpy statistical analysis
+natural language processing,text processing tokenization lemmatization named entities sentiment analysis
+computer vision,image processing convolutional neural network object detection image segmentation
+web development,frontend backend api flask django javascript html css web frameworks
+devops,containerization docker kubernetes continuous integration deployment monitoring cloud
+database,sql nosql query optimization indexing database design transactions
+statistics,probability hypothesis testing distributions inference regression analysis
+information retrieval,search ranking tf-idf indexing boolean retrieval vector space model
+nlp applications,chatbots summarization information extraction question answering
